@@ -4,7 +4,7 @@
 
 # for now keep pinning "known working" lxml,
 # it's been a troublesome component in the past.
-lxml==4.9.1
+lxml==6.1.0
 ninja
 
 # Needed for test/Parallel/failed-build/failed-build.py
